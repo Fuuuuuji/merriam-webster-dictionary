@@ -14,13 +14,13 @@
             "identifier": "dictionaryApiKey",
             "type": "string",
             "title": "Merriam-Webster Dictionary API Key",
-            "defaultValue": "67113a79-3424-4125-990f-ad5c1bffcebf"
+            "defaultValue": ""
         },
         {
             "identifier": "thesaurusApiKey",
             "type": "string",
             "title": "Merriam-Webster Thesaurus API Key",
-            "defaultValue": "Fb0ded5d-2435-4945-9085-f6f2e09ca317"
+            "defaultValue": ""
         }
     ]
 }
