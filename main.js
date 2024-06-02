@@ -45,7 +45,7 @@ function formatResponse(data) {
 }
 
 function translate(query, completion) {
-    const dictionaryApiKey = $option.dictionaryApiKey || "67113a79-3424-4125-990f-ad5c1bffcebf";
+    const dictionaryApiKey = $option.dictionaryApiKey || "";
     const url = `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${encodeURIComponent(query.text)}?key=${dictionaryApiKey}`;
 
     $http.get({
