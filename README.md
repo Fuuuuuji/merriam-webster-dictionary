@@ -1,6 +1,8 @@
 # Guidance
 
-1.Go to the official merriam-webster-dictionary api website and apply for your own keys
+1.Go to the official merriam-webster-dictionary api website and apply for your own keys 
+
+🔗https://dictionaryapi.com/account/index
 
 2.Replace the api key in info.json
 
