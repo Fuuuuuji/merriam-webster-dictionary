@@ -1,8 +1,8 @@
 {
     "identifier": "com.fuuuuuji.merriamwebstertranslator",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "category": "translate",
-    "name": "MerriamWebsterTranslator",
+    "name": "Merriam-Webster Dictionary",
     "summary": "Translate words using Merriam-Webster Dictionary and Thesaurus API",
     "icon": "",
     "author": "FuuuuujiChaos",
@@ -12,15 +12,18 @@
     "options": [
         {
             "identifier": "dictionaryApiKey",
-            "type": "string",
-            "title": "Merriam-Webster Dictionary API Key",
-            "defaultValue": ""
+            "type": "text",
+            "title": "Key (Dictionary)",
+            "defaultValue": "",
+            "desc": "Please enter your Merriam-Webster Dictionary API Key at https://dictionaryapi.com/account/my-keys"
         },
         {
             "identifier": "thesaurusApiKey",
-            "type": "string",
-            "title": "Merriam-Webster Thesaurus API Key",
-            "defaultValue": ""
+            "type": "text",
+            "title": "Key (Thesaurus)",
+            "defaultValue": "",
+            "desc": "Please enter your Merriam-Webster Thesaurus API Key at https://dictionaryapi.com/account/my-keys"
+
         }
     ]
 }

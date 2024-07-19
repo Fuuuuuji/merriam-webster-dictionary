@@ -2,6 +2,14 @@
   "identifier": "com.fuuuuuji.merriamwebstertranslator",
   "versions": [
     {
+      "version": "2.0.0",
+      "desc": "Add service icon. Allow to fill in the key in the settings.",
+      "sha256": "ba9e59a54e82d4dc62a2afb7ad24f97f7a007b30457277a28419608c34e460f6",
+      "url": "https://github.com/Fuuuuuji/merriam-webster-dictionary/releases/download/2.0.0/merriam-webster-dictionary-2.0.0.bobplugin",
+      "minBobVersion": "0.5.0",
+      "timestamp": 1721397657000
+    },
+    {
       "version": "1.0.0",
       "desc": "Initial version",
       "sha256": "3cd6948325e33d02c8d506658692ee3f2b5d8028d30a11da7cd7cfa28ff8a59d",
