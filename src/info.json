@@ -4,7 +4,6 @@
     "category": "translate",
     "name": "Merriam-Webster Dictionary",
     "summary": "Translate words using Merriam-Webster Dictionary and Thesaurus API",
-    "icon": "",
     "author": "FuuuuujiChaos",
     "homepage": "https://github.com/Fuuuuuji?tab=repositories",
     "appcast": "https://github.com/Fuuuuuji/merriam-webster-dictionary/raw/main/appcast.json",
