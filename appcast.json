@@ -1,0 +1,13 @@
+{
+  "identifier": "com.fuuuuuji.merriamwebstertranslator",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "desc": "Initial version",
+      "sha256": "3cd6948325e33d02c8d506658692ee3f2b5d8028d30a11da7cd7cfa28ff8a59d",
+      "url": "https://github.com/Fuuuuuji/merriam-webster-dictionary/releases/download/1.0.0/merriam-webster-dictionary-1.0.0.bobplugin",
+      "minBobVersion": "0.5.0",
+      "timestamp": 1721396709000
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-    "identifier": "com.yourname.merriamwebstertranslator",
+    "identifier": "com.fuuuuuji.merriamwebstertranslator",
     "version": "1.0.0",
     "category": "translate",
     "name": "MerriamWebsterTranslator",
@@ -7,7 +7,7 @@
     "icon": "",
     "author": "FuuuuujiChaos",
     "homepage": "https://github.com/Fuuuuuji?tab=repositories",
-    "appcast": "",
+    "appcast": "https://github.com/Fuuuuuji/merriam-webster-dictionary/raw/main/appcast.json",
     "minBobVersion": "0.5.0",
     "options": [
         {
