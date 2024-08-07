@@ -1,0 +1,28 @@
+{
+    "identifier": "com.fuuuuuji.merriamwebstertranslator",
+    "version": "2.0.0",
+    "category": "translate",
+    "name": "Merriam-Webster Dictionary",
+    "summary": "Translate words using Merriam-Webster Dictionary and Thesaurus API",
+    "author": "FuuuuujiChaos",
+    "homepage": "https://github.com/Fuuuuuji?tab=repositories",
+    "appcast": "https://github.com/Fuuuuuji/merriam-webster-dictionary/raw/main/appcast.json",
+    "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "dictionaryApiKey",
+            "type": "text",
+            "title": "Key (Dictionary)",
+            "defaultValue": "",
+            "desc": "Please enter your Merriam-Webster Dictionary API Key at https://dictionaryapi.com/account/my-keys"
+        },
+        {
+            "identifier": "thesaurusApiKey",
+            "type": "text",
+            "title": "Key (Thesaurus)",
+            "defaultValue": "",
+            "desc": "Please enter your Merriam-Webster Thesaurus API Key at https://dictionaryapi.com/account/my-keys"
+
+        }
+    ]
+}
