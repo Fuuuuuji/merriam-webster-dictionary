@@ -1,18 +1,13 @@
+Hi!👋Let's use professional English dictionary Merriam Webster Dictionary in just 2 mins!🔥 Please follow the guidance beblow step by step!
 # Guidance
-
-1.Go to the official merriam-webster-dictionary api website and apply for your own keys 
-
-🔗https://dictionaryapi.com/account/index
-
-2.Replace the api key in info.json
-
-![BCA15ECC-8C2E-4697-9A16-D5FEF7D3D65D](https://github.com/Fuuuuuji/merriam-webster-dictionary/assets/165608722/85d76771-068d-46f4-98a1-27f6db0ae3ea)
-
-3.zip the info.json and main.js, rename the .zip file into .bobplugin
-
-![image](https://github.com/Fuuuuuji/merriam-webster-dictionary/assets/165608722/e267d376-e400-4420-b6c9-eacce803ff6e)
-
-
+1.Download the .zip file, and unzip it.
+2.Zip the src file and rename it as XXX.bobplugin.
+![image](https://github.com/user-attachments/assets/72688589-75a0-4cc4-8b75-b25457695696)
+3.Open Bob and find the plugin window, then import the XXX.bobplugin file.
+![image](https://github.com/user-attachments/assets/7d0e40cd-2705-41a3-b382-a45b4e503dd7)
+4.Go to Bob's service window and first click "+" to add new plugin and then put your Merriam Webster Keys in it.
+![image](https://github.com/user-attachments/assets/c86e85a0-0bb9-4631-a01f-12afb8c2fb4f)
+You can apply free Merriam Webster Dictionary keys [here](https://dictionaryapi.com)
 # Use Case
-
-![image](https://github.com/Fuuuuuji/merriam-webster-dictionary/assets/165608722/95a7aeb2-df60-4b72-870b-ac7aa775a041)
+![Uploading image.png…]()
+Feel free to contact with me！
