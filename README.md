@@ -14,6 +14,6 @@ Hi!👋Let's use professional English dictionary Merriam Webster Dictionary in j
 You can apply free Merriam Webster Dictionary keys [here](https://dictionaryapi.com)
 # Use Case
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6da54f34-7790-4dd1-88c0-4b1b1a9f42a7)
 
-Feel free to contact with me！
+Feel free to contact with me！😊
