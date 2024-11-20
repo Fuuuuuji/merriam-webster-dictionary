@@ -1,4 +1,4 @@
-Hi!👋Let's use professional English dictionary Merriam Webster Dictionary in just 2 mins!🔥 Please follow the guidance beblow step by step!
+Hi!👋Let's use Merriam Webster Dictionary in just 2 mins!🔥 Please follow the guidance beblow step by step!
 # Guidance
 1.Download the .zip file, and unzip it.
 
